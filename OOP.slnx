@@ -5,6 +5,10 @@
   </Configurations>
   <Project Path="03_copy_constructor/03_copy_constructor.vcxproj" Id="c7668eb2-e13c-4fd4-899d-3fa8691f17f6" />
   <Project Path="05_const_explisit/05_const_explisit.vcxproj" Id="2527a4b3-b43a-4c7b-b15c-4a4b72fd3631" />
+  <Project Path="05_homeworke/05_homeworke.vcxproj" Id="51768730-fa80-4966-9f90-5d53fcc90907" />
+  <Project Path="06.1_overload_operators/06.1_overload_operators.vcxproj" Id="faa4c15c-8888-4023-8002-a47338819d67" />
+  <Project Path="06.2_overload_operators/06.2_overload_operators.vcxproj" Id="128240bf-4a07-438d-848d-47d920f759c6" />
+  <Project Path="06_overload_operatrors/06_overload_operatrors.vcxproj" Id="be49ba3b-2859-4018-b610-14d5f0ab77cb" />
   <Project Path="2_ConstructorsDestructor/2_ConstructorsDestructor.vcxproj" Id="545c6867-1ee5-419f-a765-146fd88c3da2" />
   <Project Path="2_homeworke/2_homeworke.vcxproj" Id="e2b36684-d78d-4b0f-89b0-d279c13bb303" />
   <Project Path="OOP/OOP.vcxproj" Id="0836ff2a-5e13-4a90-b09b-1f6d3b10b597" />
