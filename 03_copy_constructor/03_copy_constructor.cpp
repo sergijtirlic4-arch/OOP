@@ -84,7 +84,7 @@ public:
 
     bool removeByIndex(int index) {
         if (index < 0 || index >= this->size) {
-            cout << "Error: Invalid index.\n";
+            cout << "Error\n";
             return false;
         }
 
@@ -117,7 +117,7 @@ public:
         }
 
         if (index == -1) {
-            cout << "Error: Element not found.\n";
+            cout << "Error\n";
             return false;
         }
 

@@ -4,6 +4,7 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="03_copy_constructor/03_copy_constructor.vcxproj" Id="c7668eb2-e13c-4fd4-899d-3fa8691f17f6" />
+  <Project Path="05_const_explisit/05_const_explisit.vcxproj" Id="2527a4b3-b43a-4c7b-b15c-4a4b72fd3631" />
   <Project Path="2_ConstructorsDestructor/2_ConstructorsDestructor.vcxproj" Id="545c6867-1ee5-419f-a765-146fd88c3da2" />
   <Project Path="2_homeworke/2_homeworke.vcxproj" Id="e2b36684-d78d-4b0f-89b0-d279c13bb303" />
   <Project Path="OOP/OOP.vcxproj" Id="0836ff2a-5e13-4a90-b09b-1f6d3b10b597" />
