@@ -107,4 +107,5 @@ int main()
     Worker::PrintByExperience(staff, SIZE, 5);
     Worker::PrintBySalary(staff, SIZE, 3000.0);
     Worker::PrintByPosition(staff, SIZE, "Developer");
+
 }
