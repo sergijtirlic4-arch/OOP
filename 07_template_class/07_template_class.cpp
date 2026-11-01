@@ -1,8 +1,4 @@
 #include <iostream>
-#include <initializer_list>
-#include <cstdlib>
-#include <ctime>
-
 using namespace std;
 
 template <typename T>
