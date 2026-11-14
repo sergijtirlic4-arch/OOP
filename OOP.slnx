@@ -15,6 +15,10 @@
   <Project Path="09_move_constructor_operator=/09_move_constructor_operator=.vcxproj" Id="d4e3ed83-d866-47e5-ba4d-6aa56ee928f1" />
   <Project Path="10_homeworke/10_homeworke.vcxproj" Id="eea60fca-5f13-42e8-a511-2f505ab19c6a" />
   <Project Path="10_stack/10_stack.vcxproj" Id="5fb61e02-7de2-42d5-be72-336426d8fa80" />
+  <Project Path="11_queue/11_queue.vcxproj" Id="8f1afda7-60bf-4a59-9ea8-c7b36fbe8079" />
+  <Project Path="13_homeworke/13_homeworke.vcxproj" Id="903368ad-fad5-4383-a1b0-3eefc2223eb9" />
+  <Project Path="13_single_linked_list/13_single_linked_list.vcxproj" Id="313a672b-2fb4-483c-8b6c-560d5f7bfd93" />
+  <Project Path="14_doulbly_linked_list/14_doulbly_linked_list.vcxproj" Id="26d4f861-3e0f-4f33-b84f-5424f0464d16" />
   <Project Path="2_ConstructorsDestructor/2_ConstructorsDestructor.vcxproj" Id="545c6867-1ee5-419f-a765-146fd88c3da2" />
   <Project Path="2_homeworke/2_homeworke.vcxproj" Id="e2b36684-d78d-4b0f-89b0-d279c13bb303" />
   <Project Path="OOP/OOP.vcxproj" Id="0836ff2a-5e13-4a90-b09b-1f6d3b10b597" />
